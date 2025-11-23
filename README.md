@@ -23,3 +23,10 @@ src="https://img.shields.io/github/followers/khnittha?logo=github&style=for-the-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="http://www.github.com/khnittha"><img src="https://github-readme-stats.vercel.app/api?username=khnittha&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="khnittha's GitHub stats" /></a>
+
+<a href="https://github.com/khnittha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khnittha&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
